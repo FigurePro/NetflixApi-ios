@@ -1,0 +1,21 @@
+Host: ios.prod.cloud.netflix.com
+X-AllowCompression: false
+X-Netflix.client.type: argo
+X-Client-Request-Id: 2161732093109960
+User-Agent: Argo/3539 CFNetwork/1240.0.4 Darwin/20.5.0
+Cookie: memclid=7ee370da-d87b-421e-9818-eb3f0e8dc170; nfvdid=BQFmAAEBEGceoklo8lxTcZgSpvmhQBhAVGS5CQStYvAO6ZBAy6sHXwph64WtKbD6AOaenlwspHjkP1jTgW2GPPZyzUG2c%2FqdsaUC7ySVJTSzuqNSGanLCw%3D%3D
+X-Netflix.Request.Client.Context: {"appState":"foreground"}
+X-Netflix.client.iosVersion: 14.6
+X-Netflix.client.idiom: phone
+Content-Encoding: msl_v1
+X-Netflix.request.expiry.timeout: 15000
+Content-Length: 2795
+X-Netflix.Request.Routing: {"path":"/nq/mobile/nqios/~13.29.0/user","control_tag":"iosui_argo_non_member"}
+Connection: keep-alive
+X-Netflix.Request.Attempt: 1
+X-Netflix.client.appVersion: 13.29.0
+Accept-Language: fr-fr
+X-Netflix.Argo.NFNSM: 9
+Accept: */*
+Content-Type: application/json
+Accept-Encoding: gzip, deflate, br
